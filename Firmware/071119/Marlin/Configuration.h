@@ -380,9 +380,9 @@
   // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
 
   // S22
-  #define  DEFAULT_Kp 21.73
-  #define  DEFAULT_Ki 1.54
-  #define  DEFAULT_Kd 76.55
+  #define  DEFAULT_Kp 11.59
+  #define  DEFAULT_Ki 0.42
+  #define  DEFAULT_Kd 80.69
 
   // MakerGear
   //#define DEFAULT_Kp 7.0
